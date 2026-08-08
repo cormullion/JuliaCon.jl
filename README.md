@@ -67,7 +67,7 @@ JuliaCon.talksby("Jeff")
 
 ## Search for talks by title/abstract
 ```julia
-JuliaCon.talksabout("Optics")
+JuliaCon.talksabout("Graphics")
 ```
 
 <img alt="JuliaCon.talksabout()" src="screenshots/screenshot-talksabout.png">
