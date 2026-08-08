@@ -12,9 +12,7 @@ Access the JuliaCon schedule from your terminal.
 ```julia
 JuliaCon.now()
 ```
-
-<img alt="JuliaCon.now()" src="screenshots/screenshot-now.png ">
-
+<img alt="JuliaCon.now()" src="screenshots/screenshot-now.png">
 
 ```julia
 JuliaCon.today()
@@ -61,7 +59,7 @@ There are three cache modes: `:DEFAULT`, `:NEVER`, `:ALWAYS`. You can switch bet
 ## Search for talks by speaker
 
 ```julia
-JuliaCon.talksby("Carsten Bauer")
+JuliaCon.talksby("Jeff")
 ```
 
 <img alt="JuliaCon.talksby()" src="screenshots/screenshot-talksby.png">
